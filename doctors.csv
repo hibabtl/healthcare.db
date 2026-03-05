@@ -1,0 +1,61 @@
+doctor_id,name,specialization,experience_years,salary
+1,Kyle Freeman,General Medicine,33,41642
+2,Jerry Mills,General Medicine,39,52257
+3,Jeffrey Brown,Orthopedics,18,40717
+4,Thomas Fischer,Cardiology,35,129945
+5,Megan Maxwell,Pediatrics,26,65061
+6,Joshua May,Dermatology,27,87581
+7,Lisa Jones,Pediatrics,32,128600
+8,Julie Young,Pediatrics,22,67497
+9,Matthew Reyes,Pediatrics,21,138036
+10,Joseph Hughes,General Medicine,31,46904
+11,David Harrington,,22,90826
+12,Amber Bishop,General Medicine,3,108428
+13,Cathy Briggs,General Medicine,26,147184
+14,Helen Thomas,Orthopedics,24,128159
+15,Christina Simpson,Neurology,37,72938
+16,Melanie Mahoney,Pediatrics,36,149084
+17,Sharon Thomas,General Medicine,31,149055
+18,Albert Burgess,General Medicine,21,88728
+19,Evan Lambert,Orthopedics,16,94629
+20,Rachel Wade,Neurology,33,109008
+21,Jessica Pham,Orthopedics,12,125291
+22,Natasha Pacheco,Neurology,37,97172
+23,Cynthia Davis,Cardiology,30,77396
+24,Natalie Johnson,Pediatrics,8,127183
+25,Ryan Santiago,Orthopedics,35,86010
+26,Jesse Medina,Pediatrics,25,72992
+27,Teresa Gordon,Dermatology,29,138341
+28,Claire Barnes,Cardiology,10,44004
+29,Mrs. Mary Shelton,Pediatrics,37,87492
+30,Emily Barnes,,15,148545
+31,Betty Schroeder,Pediatrics,10,119349
+32,Chelsea Campbell,Cardiology,9,49206
+33,Maurice Clark,Neurology,16,98291
+34,Laura Nguyen,Orthopedics,16,110274
+35,Thomas Ramsey,General Medicine,34,46519
+36,Joseph Owens,Dermatology,37,113856
+37,Lauren Strickland,General Medicine,14,73256
+38,Claudia Morris,Pediatrics,1,129334
+39,Theodore Davis,Orthopedics,1,298645
+40,Whitney Goodman,Orthopedics,21,99512
+41,Savannah Gomez,Dermatology,15,57904
+42,Stephanie Lopez,General Medicine,14,124765
+43,Brian Martin,Dermatology,3,40581
+44,Dennis Long,Pediatrics,3,131852
+45,Ryan Mendoza,Pediatrics,27,144146
+46,Jane Mckinney,Neurology,13,129217
+47,Meghan Kennedy,Dermatology,39,47912
+48,Tonya Ortiz,General Medicine,21,77147
+49,Mr. Steven Zuniga,Cardiology,10,98821
+50,Molly Meyer,Pediatrics,3,118246
+51,Frances Clark,General Medicine,16,95839
+52,Olivia Morris,Pediatrics,18,112364
+53,Lisa Cunningham,Neurology,9,137306
+54,Donna Hartman,Cardiology,20,44695
+55,Linda Carlson,Neurology,1,55184
+56,Edward Burton,,8,133967
+57,Crystal Mcbride,Cardiology,2,72276
+58,Nichole Johnson,Cardiology,3,131129
+59,Danielle Evans,Cardiology,11,141725
+60,Mark Williams,Pediatrics,20,82834
